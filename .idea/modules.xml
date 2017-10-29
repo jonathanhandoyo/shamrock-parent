@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shamrock-api/shamrock-api.iml" filepath="$PROJECT_DIR$/shamrock-api/shamrock-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shamrock-commons/shamrock-commons.iml" filepath="$PROJECT_DIR$/shamrock-commons/shamrock-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shamrock-jobs/shamrock-jobs.iml" filepath="$PROJECT_DIR$/shamrock-jobs/shamrock-jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shamrock-parent.iml" filepath="$PROJECT_DIR$/shamrock-parent.iml" />
+    </modules>
+  </component>
+</project>

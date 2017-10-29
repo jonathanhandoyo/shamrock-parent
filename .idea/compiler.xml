@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shamrock-api" />
+        <module name="shamrock-commons" />
+        <module name="shamrock-jobs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shamrock-api" target="1.8" />
+      <module name="shamrock-commons" target="1.8" />
+      <module name="shamrock-jobs" target="1.6" />
+      <module name="shamrock-parent" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
